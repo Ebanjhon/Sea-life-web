@@ -7,7 +7,7 @@ body {
   position: relative;
   width: 100vw;
   height: 100vh;
-  background-image: url("/background-sea.png");
+  background-image: url("./background-sea.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
@@ -15,7 +15,7 @@ body {
 
 .fish {
   position: absolute;
-  background-image: url("/fish-gold-2d-nobg.png");
+  background-image: url("./fish-gold-2d-nobg.png");
   background-repeat: no-repeat;
   background-size: auto 100%;
 }
